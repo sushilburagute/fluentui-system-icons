@@ -25,3 +25,6 @@ packages/react-icons/src/index.tsx
 packages/react-icons/lib/
 packages/react-icons/yarn.lock
 packages/react-icons/example/build
+packages/react-icons/example/package-lock.json
+packages/react-icons/example/src/index.tsx
+packages/react-icons/example/src/react-app-env.d.ts

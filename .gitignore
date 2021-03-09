@@ -24,3 +24,4 @@ packages/react-icons/src/components
 packages/react-icons/src/index.tsx
 packages/react-icons/lib/
 packages/react-icons/yarn.lock
+packages/react-icons/example/build
